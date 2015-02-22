@@ -1,0 +1,13 @@
+{
+    "name": "spamjs/boot-navbar",
+    "type": "spam",
+    "description": "A fancy sidebar",
+    "keywords": ["rudra", "API"],
+    "license": "MIT",
+    
+    "require": {
+       "jqgeeks/utils": ">=1.0.0",
+       "webmodules/rivets": ">=0.7.1",
+	"jqgeeks/mvc": ">=1.0.0"
+    }
+}
