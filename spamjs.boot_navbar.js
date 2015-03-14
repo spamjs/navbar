@@ -1,4 +1,4 @@
-utils.define('boot.navbar').extend('spam').as(function(navbar, _instance_){
+utils.define('spamjs.boot_navbar').extend('spamjs.module').as(function(navbar, _instance_){
 	
 	_instance_._init_ = function(){
 		
