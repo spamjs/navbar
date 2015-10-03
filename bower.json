@@ -1,0 +1,20 @@
+{
+  "name": "spamjs-navbar",
+  "homepage": "https://github.com/spamjs/navbar",
+  "authors": [
+    "Lalit Tanwar <lalit.tanwar07@gmail.com>"
+  ],
+  "description": "LocalStorage Utility",
+  "main": "jsutils.cache.js",
+  "keywords": [
+    "date",
+    "pitana",
+    "x-tag"
+  ],
+  "dependencies": {
+    "webmodules-bootstrap": ">=2.1.5",
+    "spamjs/view": ">=1.0.0",
+    "jsutils/file" : "latest"
+  },
+  "license": "MIT"
+}

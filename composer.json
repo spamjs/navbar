@@ -6,6 +6,6 @@
     "license": "MIT",
     
     "require": {
-		"spamjs/module": ">=1.0.0"
+		"spamjs/view": ">=1.0.0"
     }
 }

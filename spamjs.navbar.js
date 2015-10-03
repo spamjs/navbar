@@ -1,5 +1,5 @@
 define({ 
-	name : 'spamjs.boot_navbar',
+	name : 'spamjs.navbar',
 	extend : 'spamjs.view',
 	modules : ["jsutils.file"]
 }).as(function(navbar,fileUtils){
