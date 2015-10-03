@@ -1,8 +1,8 @@
 {
-	"name" : "spamjs/boot_navbar",
-	"spamjs/boot_navbar" : {
-		"js" : 	["spamjs.boot_navbar.js"],
-		 "css" : ["boot.navbar.css"],
-		 "on" : ["webmodules/bootstrap","spamjs/view"]
-	}
+  "name": "spamjs/navbar",
+  "spamjs/boot_navbar": {
+    "js": ["spamjs.navbar.js"],
+    "css": ["boot.navbar.css"],
+    "on": ["webmodules/bootstrap", "spamjs/view"]
+  }
 }
