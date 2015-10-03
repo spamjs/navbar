@@ -13,8 +13,8 @@
   ],
   "dependencies": {
     "webmodules-bootstrap": ">=2.1.5",
-    "spamjs/view": ">=1.0.0",
-    "jsutils/file" : "latest"
+    "spamjs-view": ">=1.0.0",
+    "jsutils-file" : "latest"
   },
   "license": "MIT"
 }
