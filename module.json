@@ -1,6 +1,6 @@
 {
   "name": "spamjs/navbar",
-  "spamjs/boot_navbar": {
+  "spamjs/navbar": {
     "js": ["spamjs.navbar.js"],
     "css": ["boot.navbar.css"],
     "on": ["webmodules/bootstrap", "spamjs/view"]
