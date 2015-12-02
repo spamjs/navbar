@@ -3,6 +3,7 @@
   "spamjs/navbar": {
     "js": ["spamjs.navbar.js"],
     "css": ["boot.navbar.css"],
+    "html": ["boot.navbar-wrapper.html"],
     "on": ["webmodules/bootstrap", "spamjs/view"]
   }
 }
